@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+  <html lang="en-US">
+    <style>
+        tr, td {
+          border: 1px solid black;
+        }
+    </style>
+    <table>
+      <caption> Color Scheme</caption>
+        <thead>
+          <tr>
+              <td colspan="4">Blue Fish</td>
+         </tr>
+
+           <tr>
+            <td style="background-color:rgb(255,255,0);">Red</td>
+            <td style="background-color:rgb(255,255,0);">Blue</td>
+            <td style="background-color:rgb(255,255,0);">Yellow"</td>
+            <td style="background-color:rgb(255,255,0); color:hsla(240,100%,50%,0.5);"">Black</td>
+           </tr>
+        </thead>
+        <tbody>
+           <tr>
+            <td>[hex#FF0000]</td>
+            <td>[hex#0000FF]</td>
+            <td>[hex#FFFF00]</td>
+            <td>[hex#000000]</td>
+           </tr>
+
+           <tr>
+            <td>[rgb(255,0,0)]</td>
+            <td>[rgb(0,0,255)]</td>
+            <td>[rgb(255,255,0)]</td>
+            <td>[rgb(0,0,0)]</td>
+           </tr>
+
+           <tr>
+            <td>[hsl(0,100%,50%)]</td>
+            <td>[hsl(240,100%,50%]</td>
+            <td>[hsl(60,100%,50%]</td>
+            <td>[hsl(0%,0%,0%)]</td>
+           </tr>
+        </tbody>
+    </table>
+  <img scr="Blue_fish.pdg" alt="Blue black fish(Dorey color) in red corral"/>
+</html>
