@@ -13,10 +13,10 @@
          </tr>
 
            <tr>
-            <td style="background-color:rgb(255,255,0);">Red</td>
-            <td style="background-color:rgb(255,255,0);">Blue</td>
+            <td style="background-color:rgb(255,0,0);">Red</td>
+            <td style="background-color:rgb(0,0,255);">Blue</td>
             <td style="background-color:rgb(255,255,0);">Yellow"</td>
-            <td style="background-color:rgb(255,255,0); color:hsla(240,100%,50%,0.5);"">Black</td>
+            <td style="background-color:rgb(0,0,0); color:hsla(240,100%,50%,0.5);"">Black</td>
            </tr>
         </thead>
         <tbody>
